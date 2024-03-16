@@ -8,11 +8,9 @@ CookingApp to prosta aplikacja umożliwiająca planowanie posiłków na każdy d
 
 1. **Planowanie posiłków:** Użytkownicy mogą tworzyć listę potraw na każdy dzień tygodnia, określając posiłki na śniadanie, obiad i kolację.
 
-2. **Dodawanie przepisów:** Aplikacja umożliwia dodawanie nowych przepisów, określanie składników oraz przypisywanie kalorii do każdego składnika.
+2. **Śledzenie kalorii:** System automatycznie sumuje kalorie spożywane w ciągu dnia, dostarczając użytkownikowi podsumowanie dziennej diety.
 
-3. **Śledzenie kalorii:** System automatycznie sumuje kalorie spożywane w ciągu dnia, dostarczając użytkownikowi podsumowanie dziennej diety.
-
-4. **Baza danych MongoDB:** Backend korzysta z bazy danych MongoDB do przechowywania informacji o użytkownikach, przepisach, posiłkach i spożyciu kalorii.
+3. **Baza danych MongoDB:** Backend korzysta z bazy danych MongoDB do przechowywania informacji o użytkownikach, przepisach, posiłkach i spożyciu kalorii.
 
 ## Technologie
 
