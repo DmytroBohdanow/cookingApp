@@ -1,0 +1,6 @@
+[submodule "client/cookingAppFrontend"]
+	path = client/cookingAppFrontend
+	url = https://github.com/DmytroBohdanow/cookingAppFrontend.git
+[submodule "server/cookingAppBackend"]
+	path = server/cookingAppBackend
+	url = https://github.com/DmytroBohdanow/cookingAppBackend.git
